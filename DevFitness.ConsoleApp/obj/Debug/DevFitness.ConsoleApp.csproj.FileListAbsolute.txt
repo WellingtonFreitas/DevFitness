@@ -1,0 +1,7 @@
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\bin\Debug\DevFitness.ConsoleApp.exe.config
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\bin\Debug\DevFitness.ConsoleApp.exe
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\bin\Debug\DevFitness.ConsoleApp.pdb
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\obj\Debug\DevFitness.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\obj\Debug\DevFitness.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\obj\Debug\DevFitness.ConsoleApp.exe
+C:\Users\w.martins.de.freitas\source\repos\DevFitness\DevFitness.ConsoleApp\obj\Debug\DevFitness.ConsoleApp.pdb
