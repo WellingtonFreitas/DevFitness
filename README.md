@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 <p>
 DevFitness é um projeto criado durante o o evento Jornada .NET; ele contém uma aplicação console e uma API. 
-O oprojeto tem como objetivo gerenciar dados de saúde e alimentação do usuário.
+O oprojeto tem como objetivo gerenciar dados de saúde, alimentação, consumo calórico diário do usuário.
  </p>
 ## Tecnologias
 
