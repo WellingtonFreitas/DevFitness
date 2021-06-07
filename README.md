@@ -2,8 +2,8 @@
  #### Tela aplicação console
 ![Tela aplicação console](https://github.com/WellingtonFreitas/DevFitness/blob/main/Images/telaConsoleAPP.png?raw=true)
  
- #### Tela aplicação console       
-![Tela  Swagger com rotas da API](https://github.com/WellingtonFreitas/DevFitness/blob/main/Images/telaSwagger.png?raw=true)
+ #### Tela Swagger com rotas da API    
+![Tela Swagger com rotas da API](https://github.com/WellingtonFreitas/DevFitness/blob/main/Images/telaSwagger.png?raw=true)
 
 
 ## Descrição do Projeto
