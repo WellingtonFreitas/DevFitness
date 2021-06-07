@@ -1,18 +1,36 @@
 # DevFitness
+ #### Tela aplicação console
+![Tela aplicação console](https://github.com/WellingtonFreitas/DevFitness/blob/main/Images/telaConsoleAPP.png?raw=true)
+ 
+ #### Tela aplicação console       
+![Tela  Swagger com rotas da API](https://github.com/WellingtonFreitas/DevFitness/blob/main/Images/telaSwagger.png?raw=true)
+
 
 ## Descrição do Projeto
 <p>
 DevFitness é um projeto criado durante o o evento Jornada .NET; ele contém uma aplicação console e uma API. 
 O oprojeto tem como objetivo gerenciar dados de saúde, alimentação, consumo calórico diário do usuário.
  </p>
-## Tecnologias
+ 
+## Tecnologias e práticas utilizadas
 
--  Asp.Net Core
-- Entity Framework 3
-- Visual Studio 2019
-- SQL Server Express
-- Dapper
 
+-   Visual Studio 2019
+-   SQL Server Express
+-   ASP.NET Core com .NET 5
+-   Entity Framework Core
+-   Dapper
+-   Swagger
+-   AutoMapper
+-   Injeção de Dependência
+-   Programação Orientada a Objetos
+-   Publicação na nuvem
+
+## Principais Funcionalidades
+
+-   Cadastro, Listagem, Detalhes, Atualização e Remoção de Refeição.
+-   Cadastro e atualização de Usuário
+-   Geração de dados para relatório de balanço energético
   
 ## Executando o projeto em sua maquina local
 
@@ -29,8 +47,21 @@ Essas instruções fornecerão uma cópia do projeto completo instalado e funcio
  	Abra o arquivo Startup.cs e mude a linha  
 	   services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString)); 
      	para
-	   services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevCars"));
+	   services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevFitness"));
 ```
+```
+3. Antes de execultar selecione qual projeto deseja, como mostrar a imagem a seguir:	
+```
+<img style="border-radius: 100%;" src="https://github.com/WellingtonFreitas/DevFitness/blob/main/Images/selecionando%20projeto%20visulaStudio.png?raw=true" alt=""/>
+
+```
+5. Para execultar a API com banco de dados sem uma instancia local do SQL Server Express, siga o seguinte passo
+ 	Abra o arquivo Startup.cs e mude a linha  
+	   services.AddDbContext<DevCarsDbContext>(options => options.UseSqlServer(connectionString)); 
+     	para
+	   services.AddDbContext<DevCarsDbContext>(options => options.UseInMemoryDatabase("DevFitness"));
+```
+
 ### Autor
 ---
 
