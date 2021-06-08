@@ -60,3 +60,7 @@ C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\obj\D
 C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\obj\Debug\net5.0\DevFitness.API.pdb
 C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\obj\Debug\net5.0\DevFitness.API.genruntimeconfig.cache
 C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\bin\Debug\net5.0\DevFitness.API.xml
+C:\Users\w.martins.de.freitas\Desktop\bootcampC#\DevFitness\DevFitness.API\obj\Debug\net5.0\DevFitness.API.xml
